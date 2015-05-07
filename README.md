@@ -1,19 +1,23 @@
 # Project Grimdark
 RPG-map for warcraft 3.
 
-#### Структура команды
-*Grimdark-wc3 team*
+### Структура команды
+* **developers:**
+  * [FaNatizM](https://github.com/FaNatizM) &ndash; маппер, концептер;
+  * [vertigodalek](https://github.com/vertigodalek) &ndash; программист;
+* **testers:**
+  * возможно здесь будешь ты?
 
 
-#### Структура репозитория
-* **maps** &ndash; каталог карт:
+### Структура репозитория
+* **maps:**
   * **examples** &ndash; каталог с картами-примерами;
   * **release**  &ndash; каталог релизов;
   * **workspace** &ndash; рабочая область;
-* **resources** &ndash; каталог ресурсов:
+* **resources:**
   * **models**  &ndash; каталог моделей;
   * **pictures** &ndash; каталог изображений(загрузочные экраны, иконки, пиктограммы);
   * **sounds** &ndash; каталог музыки и звуков;
-* **sources** &ndash; каталог *исходной* информации:
+* **sources:**
   * **info-sources**  &ndash; каталог статей;
   * **scripts** &ndash; каталог скриптов.
