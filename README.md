@@ -2,10 +2,10 @@
 RPG-map for warcraft 3.
 
 ### Структура команды
-* **Developers**
+* **developers:**
   * [FaNatizM](https://github.com/FaNatizM) &ndash; маппер, концептер;
   * [vertigodalek](https://github.com/vertigodalek) &ndash; программист;
-* **Testers** &ndash; каталог ресурсов:
+* **testers:**
   * возможно здесь будешь ты?
 
 
