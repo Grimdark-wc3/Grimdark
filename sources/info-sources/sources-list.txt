@@ -1,4 +1,4 @@
-#### Статьи
+п»ї#### РЎС‚Р°С‚СЊРё
 
-* [Порядок каста спелла для юнита средствами GUI](http://www.hiveworkshop.com/forums/world-editor-help-zone-98/order-dummy-unit-cast-any-spell-211710/index2.html);
-* [Триггерные заклинания](http://xgm.guru/p/wc3/gui-examples-trigger-spell).
+* [РџРѕСЂСЏРґРѕРє РєР°СЃС‚Р° СЃРїРµР»Р»Р° С‡РµСЂРµР· GUI](http://www.hiveworkshop.com/forums/world-editor-help-zone-98/order-dummy-unit-cast-any-spell-211710/index2.html);
+* [РўСЂРёРіРіРµСЂРЅС‹Рµ Р·Р°РєР»РёРЅР°РЅРёСЏ СЃ РїРѕРјРѕС‰СЊСЋ GUI](http://xgm.guru/p/wc3/gui-examples-trigger-spell).
